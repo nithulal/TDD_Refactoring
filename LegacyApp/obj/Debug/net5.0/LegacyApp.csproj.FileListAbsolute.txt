@@ -1,0 +1,4 @@
+D:\Projects\Practices\RefactoringTest_Unedited\LegacyApp\obj\Debug\net5.0\LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Practices\RefactoringTest_Unedited\LegacyApp\obj\Debug\net5.0\LegacyApp.AssemblyInfoInputs.cache
+D:\Projects\Practices\RefactoringTest_Unedited\LegacyApp\obj\Debug\net5.0\LegacyApp.AssemblyInfo.cs
+D:\Projects\Practices\RefactoringTest_Unedited\LegacyApp\obj\Debug\net5.0\LegacyApp.csproj.CoreCompileInputs.cache
